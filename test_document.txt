@@ -1,0 +1,44 @@
+BBBEE VERIFICATION CERTIFICATE
+Certificate Number: BEE2024/TEST/001
+
+VERIFIED ENTITY DETAILS
+Company Name: Test Solutions (Pty) Ltd
+Registration Number: 2020/123456/07
+VAT Number: 4120987654
+
+VERIFICATION INFORMATION
+Issue Date: January 15, 2024
+Expiry Date: January 14, 2025
+Verification Period: 12 months from issue date
+
+B-BBEE STATUS LEVEL: Level 1 Contributor
+Procurement Recognition Level: 135%
+
+OWNERSHIP SCORING
+Black Ownership: 51%
+Black Women Ownership: 30%
+Black New Entrants: 15%
+
+ELEMENT SCORES
+Ownership: 25/25
+Management Control: 15/15
+Skills Development: 20/20
+Enterprise Development: 40/40
+Socio-Economic Development: 5/5
+
+VERIFICATION REQUIREMENTS
+- Annual renewal required as per B-BBEE Codes
+- Next verification process to begin by December 15, 2024
+- Interim review scheduled for July 2024
+
+ADDITIONAL NOTES
+This certificate is valid until the expiry date shown above.
+Monthly progress reviews recommended but not mandatory.
+Quarterly compliance checks scheduled for:
+- Q1: April 1, 2024
+- Q2: July 1, 2024
+- Q3: October 1, 2024
+- Q4: January 1, 2025
+
+Verified by: TestCert Verifiers
+SANAS Accreditation: BVA-0123-TEST
