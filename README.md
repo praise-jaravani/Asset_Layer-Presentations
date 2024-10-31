@@ -59,6 +59,7 @@ The system is built on three main components:
 # Create and navigate to project directory
 mkdir Asset_Layer
 cd Asset_Layer
+# This part is optional.
 
 # Clone repository (if using version control)
 git clone https://github.com/praise-jaravani/Asset_Layer
@@ -81,6 +82,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Set Up Docker Containers
+
+Before this, make sure you've installed Docker and/or Docker Desktop on your local machine first.
+
 #### 3.1 Text Generation Interface (TGI)
 
 If you have a beefy computer that has a dedicted GPU, you can attempt to use the Llama model.
@@ -160,6 +164,7 @@ python main.py
 ```
 
 #### Web Interface (Alternative)
+For this, cd into the app.
 ```bash
 # Run the Flask web application
 python app.py
